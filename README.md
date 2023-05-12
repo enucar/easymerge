@@ -2,6 +2,8 @@
 
 EasyMerge is a simple yet powerful web app designed to merge the front and back pages of scanned documents into a single PDF file. Perfect for those who have a scanner that doesn't support duplex scanning.
 
+Check it out live here: [EasyMerge](https://enucar.github.io/easymerge/)
+
 ## How It Works
 
 1. **Upload the Front Side PDF**: Drag and drop or select your PDF file containing the front sides of your document pages.

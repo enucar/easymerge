@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easymerge/static/css/main.48898a1d.css",
+    "main.js": "/easymerge/static/js/main.aac4ba2d.js",
+    "index.html": "/easymerge/index.html",
+    "main.48898a1d.css.map": "/easymerge/static/css/main.48898a1d.css.map",
+    "main.aac4ba2d.js.map": "/easymerge/static/js/main.aac4ba2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48898a1d.css",
+    "static/js/main.aac4ba2d.js"
+  ]
+}

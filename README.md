@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+# EasyMerge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+EasyMerge is a simple yet powerful web app designed to merge the front and back pages of scanned documents into a single PDF file. Perfect for those who have a scanner that doesn't support duplex scanning.
 
-## Available Scripts
+## How It Works
 
-In the project directory, you can run:
+1. **Upload the Front Side PDF**: Drag and drop or select your PDF file containing the front sides of your document pages.
 
-### `npm start`
+2. **Upload the Back Side PDF**: Drag and drop or select your PDF file containing the back sides of your document pages. Please ensure that the back sides are in reverse order, as they would be when flipping through a book.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. **Merge and Download**: After both files are uploaded, click the "Merge" button. The app will combine the front and back pages into a single PDF, which you can then download.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Easy-to-use drag and drop interface
+- Instant merging and downloading of PDFs
+- Ensures correct page order, just like reading a book
+- Compatible with all modern web browsers
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Support
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you find this application useful and want to support its development, consider [buying me a coffee](https://www.buymeacoffee.com/enucar).
